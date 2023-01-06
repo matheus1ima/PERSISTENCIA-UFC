@@ -1,0 +1,18 @@
+{
+  "filmes" : [ {
+    "titulo" : "Thor: Amor e Trovão",
+    "diretor" : "Taika Waititin",
+    "elenco" : "Chris Hemsworth, Natalie Portman, Christian Bale.",
+    "nota" : "57/100"
+  }, {
+    "titulo" : "Pinóquio",
+    "diretor" : "Robert Zemeckis.",
+    "elenco" : "Tom Hanks, Cynthia Erivo, Sheila Atim.",
+    "nota" : "39/100"
+  }, {
+    "titulo" : "Uncharted: Fora do Mapa",
+    "diretor" : "Ruben Fleischer",
+    "elenco" : "Tom Holland, Mark Wahlberg, Tati Gabrielle.",
+    "nota" : "45/100"
+  } ]
+}
