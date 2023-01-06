@@ -1,18 +1,10 @@
-## Getting Started
+## Atividade
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Lista de Exercícios 05 ###
 
-## Folder Structure
+- 01. Crie uma classe Java de entidade. Exemplo: Filme (id, titulo, sinopse, diretor).
+    - OBS: A classe não precisa implementar a interface java.io.Serializable.
+- 02. Crie uma classe Java de nome Serializa para instanciar objetos da classe definida na Questão 1 e adicionar esses objetos em uma Lista. Depois, percorrer a lista e Serializar os objetos em disco/ssd. Serialize usando JSON através da biblioteca Jackson (Serialization and Deserialization in Java using Jackson A practical guide on how to serialize and deserialize objects to JSON in Java using Jackson).
+- 03. Crie uma classe java de nome Desserializa para ler / desserializar os objetos Serializados na Questão 2 e exibi-los também através do uso da bilbioteca Jackson (Serialization and Deserialization in Java using Jackson A practical guide on how to serialize and deserialize objects to JSON in Java using Jackson).
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> 05.PERSISTÊNCIA
