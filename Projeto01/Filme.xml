@@ -1,0 +1,18 @@
+<ListaDeFilmes>
+  <Filmes>
+    <filme>
+      <titulo>AA</titulo>
+      <diretor>AA</diretor>
+      <elenco>AA</elenco>
+      <nota>AA</nota>
+      <lancamento>AA</lancamento>
+    </filme>
+    <filme>
+      <titulo>BB</titulo>
+      <diretor>BB</diretor>
+      <elenco>BB</elenco>
+      <nota>BB</nota>
+      <lancamento>BB</lancamento>
+    </filme>
+  </Filmes>
+</ListaDeFilmes>
